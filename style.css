@@ -17,3 +17,16 @@ background: linear-gradient(to left, #fff, #076585); /* W3C, IE 10+/ Edge, Firef
 
   
 }
+
+.img{
+   box-shadow: 0px 24px px 0px #2B384C;
+}
+
+/* .wpcontainer1{
+  box-shadow: 0px 36px px 0px #2B384C ;
+} */
+/* .wpicons{
+  box-shadow: 0px 12px 64px 0px #1C1919;
+} */
+
+
